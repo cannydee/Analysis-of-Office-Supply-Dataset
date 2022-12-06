@@ -1,5 +1,7 @@
 # Office-Supply-Dashboard
-The Office Supply Dashboard for Dataleum
+The Office Supply Dashboard for Dataleum.
+
+The goal of this project was to analyze and determine which products were key drivers of performance and also to identify which products performed poorly in order to be discontinued.
 
 From the office supply dataset given which constituted of columns; Segment, State, Product, Units sold, Manufacturing cost, Sales price, etc, I computed calculated columns on Microsoft Power Bi such as the Gross sales, Discount using the discount rate, Revenue, Profit before and after tax, Profit margin, Tax on profit using a tax rate of 5%.
 
