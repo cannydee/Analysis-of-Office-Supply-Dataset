@@ -17,7 +17,7 @@ One of the recommendations given was for the Segments to manufacture more of the
 
 [PowerBi-Group 16.pdf](https://github.com/cannydee/Office-Supply-Dashboard/files/10154118/PowerBi-Group.16.pdf)
 
-[PowerPoint-Group 16.pdf](https://github.com/cannydee/Office-Supply-Dashboard/files/10154129/PowerPoint-Group.16.pdf)
+
 
 ![report](https://user-images.githubusercontent.com/94903456/205638025-06dc8002-12dc-40b0-a539-5ce5a82d2dca.png)
 
